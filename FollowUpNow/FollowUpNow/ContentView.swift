@@ -33,10 +33,11 @@ struct ContentView: View {
         .onOpenURL { url in
             guard let host = url.host else { return }
             switch host {
+            case "home": selectedTab = 0
             case "contacts": selectedTab = 1
             case "pipeline": selectedTab = 2
             case "settings": selectedTab = 3
-            default: break
+            default: selectedTab = 0
             }
         }
     }
