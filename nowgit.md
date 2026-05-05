@@ -15,10 +15,10 @@
 
 | Page | URL | Status |
 |------|-----|--------|
-| Landing Page | https://asunnyboy861.github.io/FollowUpNow/ | ⏳ Pending |
-| Support | https://asunnyboy861.github.io/FollowUpNow/support.html | ⏳ Pending |
-| Privacy Policy | https://asunnyboy861.github.io/FollowUpNow/privacy.html | ⏳ Pending |
-| Terms of Use | https://asunnyboy861.github.io/FollowUpNow/terms.html | ⏳ Pending |
+| Landing Page | https://asunnyboy861.github.io/FollowUpNow/ | ✅ Active |
+| Support | https://asunnyboy861.github.io/FollowUpNow/support.html | ✅ Active |
+| Privacy Policy | https://asunnyboy861.github.io/FollowUpNow/privacy.html | ✅ Active |
+| Terms of Use | https://asunnyboy861.github.io/FollowUpNow/terms.html | ✅ Active |
 
 ## Repository Structure
 
