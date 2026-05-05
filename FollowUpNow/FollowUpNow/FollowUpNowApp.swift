@@ -3,7 +3,7 @@ import SwiftData
 
 @main
 struct FollowUpNowApp: App {
-    @AppStorage("hasCompletedOnboarding") private var hasCompletedOnboarding = false
+    @AppStorage("hasCompletedOnboarding") private var hasCompletedOnboarding = true
 
     var body: some Scene {
         WindowGroup {

@@ -30,6 +30,15 @@ struct ContentView: View {
                 }
                 .tag(3)
         }
+        .onOpenURL { url in
+            guard let host = url.host else { return }
+            switch host {
+            case "contacts": selectedTab = 1
+            case "pipeline": selectedTab = 2
+            case "settings": selectedTab = 3
+            default: break
+            }
+        }
     }
 }
 

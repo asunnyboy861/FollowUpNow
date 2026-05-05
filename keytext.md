@@ -63,4 +63,4 @@ SUBSCRIPTION INFORMATION:
 - Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription.
 
 ## Keywords
-follow up,client reminder,sales pipeline,CRM,business contacts,networking,AI follow up,sales tracker
+follow up,client reminder,sales pipeline,CRM,business contacts,networking,AI follow up,sales
