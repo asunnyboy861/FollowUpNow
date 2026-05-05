@@ -20,6 +20,8 @@
 | Privacy Policy | https://asunnyboy861.github.io/FollowUpNow/privacy.html | ✅ Active |
 | Terms of Use | https://asunnyboy861.github.io/FollowUpNow/terms.html | ✅ Active |
 
+**Note**: Terms of Use required for IAP subscription apps.
+
 ## Repository Structure
 
 ### Main App Repository
