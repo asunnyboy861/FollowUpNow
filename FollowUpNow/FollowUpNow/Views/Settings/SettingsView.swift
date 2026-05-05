@@ -58,9 +58,7 @@ struct SettingsView: View {
                 Section("Legal") {
                     Link("Support", destination: URL(string: "https://asunnyboy861.github.io/FollowUpNow/support.html")!)
                     Link("Privacy Policy", destination: URL(string: "https://asunnyboy861.github.io/FollowUpNow/privacy.html")!)
-                    if purchaseManager.isProPlusUnlocked {
-                        Link("Terms of Use", destination: URL(string: "https://asunnyboy861.github.io/FollowUpNow/terms.html")!)
-                    }
+                    Link("Terms of Use", destination: URL(string: "https://asunnyboy861.github.io/FollowUpNow/terms.html")!)
                 }
 
                 Section("Contact") {
